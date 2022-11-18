@@ -104,6 +104,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+venv_insurance/
 env/
 venv/
 ENV/
