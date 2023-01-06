@@ -9,7 +9,7 @@ on:
 # Your workflows jobs.
 jobs:
   build:
-    runs-on: ubuntu-latest  #allocated fron github
+    runs-on: ubuntu-latest  #allocated from github
     steps:
       # Check-out your repository.
       - name: Checkout
